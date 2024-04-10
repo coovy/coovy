@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently pursuing a graduate degree at Peking University, focusing on the development of AI operators and C/C++ programming.
+- 🌱 I have a particular interest in the underlying layers of computing, such as operating systems and network protocol stacks.
+- 📫 How to reach me: see my blog: http://coovy.cc
 <!--
 **coovy/coovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
